@@ -20,6 +20,13 @@ This org is for trying things.
 - Python Programming
 - Android
 - React
+- Flutter
+- Machine Learning
+
+## Favorite Algorithms
+- Backtracking
+- BFS
+- Binary Search
 
 
 <!--
